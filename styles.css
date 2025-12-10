@@ -553,3 +553,4 @@ body {
     .about-layout { grid-template-columns: 1fr; } 
     .hero-title { font-size: clamp(2.5rem, 8vw, 4rem); }
 }
+
